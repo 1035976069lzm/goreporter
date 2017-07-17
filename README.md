@@ -9,6 +9,9 @@
 
 A Golang tool that does static analysis, unit testing, code review and generate code quality report. This is a tool that concurrently runs a whole bunch of those linters and normalizes their output to a report:
 
+## NOTE
+This repository has been trancfered to [360EntSecGroup-Skylar/goreporter](https://github.com/360EntSecGroup-Skylar/goreporter)
+
 <!-- MarkdownTOC -->
 
 - [Supported linters](#supported-linters)
